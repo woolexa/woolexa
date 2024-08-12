@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://discord.com/users/787245214623727626">
+    <img src="https://lanyard.cnrad.dev/api/787245214623727626" alt="Discord Presence" />
+  </a>
+</div>
+
 <h1 align="center">Selam 👋, Ben Woolexa</h1>
 <h3 align="center">Keyfimce node.js ile işlemler yapıyorum ilgi alanım Discord botları ve Siteler siteleri Ejs dili ile yazıyorum bu hesabıma ise yaptığım projelerimi sizlerle paylaşmak için açtım!</h3>
 
