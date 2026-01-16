@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woolexa&label=Profile%20views&color=0e75b6&style=flat" alt="woolexa" /> </p>
 
-- 🌱 Şuanda bu dilleri öğrenmekteyim **Ejs , Node.js , Python**
+- 🌱 Şuanda bu dilleri öğrenmekteyim **CS C++ JAVA RUST**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
